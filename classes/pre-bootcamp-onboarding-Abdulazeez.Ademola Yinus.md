@@ -1,4 +1,4 @@
-# My Notes — Taiwo Durodola-Tunde
+# My Notes — Abdulazeez Yinusa 
 
 ---
 
