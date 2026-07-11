@@ -1,4 +1,4 @@
-# My Notes — [Tomilola Osukoya]
+# My Notes — [olajide samson]
 
 ## Key Concepts I Learned
 
