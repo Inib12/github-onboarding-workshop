@@ -1,8 +1,6 @@
 # My Notes — Marycynthia Okeke
 
 ## Key Concepts I Learned
-
-Key Concepts I Learned
 Azure Key Vaults & Defense-in-Depth
 
 During this class, I gained a better understanding of how Azure Key Vault strengthens security by providing a centralized location for storing and managing sensitive information.
